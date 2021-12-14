@@ -1,2 +1,3 @@
 # VR-Backend
- Teste QA
+
+Após clone do repositório, executar o comando "cucumber" para rodar o teste.
